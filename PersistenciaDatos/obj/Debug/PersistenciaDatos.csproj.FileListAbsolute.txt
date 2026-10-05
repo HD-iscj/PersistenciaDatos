@@ -1,0 +1,10 @@
+C:\Users\C3\source\repos\PersistenciaDatos\bin\Debug\PersistenciaDatos.exe.config
+C:\Users\C3\source\repos\PersistenciaDatos\bin\Debug\PersistenciaDatos.exe
+C:\Users\C3\source\repos\PersistenciaDatos\bin\Debug\PersistenciaDatos.pdb
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.csproj.AssemblyReference.cache
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.Form1.resources
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.Properties.Resources.resources
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.csproj.GenerateResource.cache
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.csproj.CoreCompileInputs.cache
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.exe
+C:\Users\C3\source\repos\PersistenciaDatos\obj\Debug\PersistenciaDatos.pdb
